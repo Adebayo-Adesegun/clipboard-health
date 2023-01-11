@@ -64,7 +64,7 @@ Create a Form in the Facility's module where a facility can add the `facility_cu
 
 Acceptance Criteria:
 
-- A form is created in the Facility's Module that allows `facility_custom_id` to be mapped to each Agent assigned to the faility.
+- A form is created in the Facility's Module that allows `facility_custom_id` to be mapped to each Agents assigned to the facility.
 
 - The submission of the form calls the custom function that maps agent to their corresponding `facility_custom_id` and then to database.
 
